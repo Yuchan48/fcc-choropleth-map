@@ -1,0 +1,19 @@
+{
+  "name": "fcc-choropleth-map",
+  "version": "1.0.0",
+  "description": "Visualize Data with a Choropleth Map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuchan48/fcc-choropleth-map.git"
+  },
+  "author": "\"Yuchan Iizuka <yuchan4869@gmx.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuchan48/fcc-choropleth-map/issues"
+  },
+  "homepage": "https://github.com/Yuchan48/fcc-choropleth-map#readme"
+}
