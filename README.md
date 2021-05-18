@@ -1,7 +1,9 @@
 # Visualize Data with a Choropleth Map
 #### Project made for the "Data Visualization" module in freeCodeCamp 
 
-[live app](https://yuchan48.github.io/fcc-choropleth-map-d3/)
+### preview : https://yuchan48.github.io/fcc-choropleth-map-d3/
+
+___
 
 ![alt USA Map](https://i.imgur.com/lEvKLWKl.jpg)
 
